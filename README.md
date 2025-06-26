@@ -5,14 +5,23 @@ X-Core: Nexus is a cool and welcoming server with a small but growing community.
 It was made to make you happy! So let’s dive in:
 -------------------------------------------------------------------------------------
 ## :gift: What We Offer:
+
 • :globe_with_meridians: Server Language: English / German
+
 • :ballot_box: Server Icon Votes: What’s your favorite?
+
 • :video_game: Play Games
+
 • :crown: VIP & VIP+
+
 • :tools: Development, :video_game: Gaming, :art: Design, :speech_balloon: Chatting, and more
+
 • :joy: A lot of fun!
+
 • :scroll: Rules to give you the best experience
+
 • :shield: Good moderation
+
 • :blush: Friendly people everywhere!
 
 ## :computer: About Development:
