@@ -1,7 +1,7 @@
-# :sparkles: X CORE: NEXUS
+# :sparkles: Xeno Programming Lab
 ## :wave: Hello to everyone reading this!
 -------------------------------------------------------------------------------------
-X-Core: Nexus is a cool and welcoming server with a small but growing community.
+Xeno Programming Lab is a cool and welcoming server with a small but growing community.
 It was made to make you happy! So let’s dive in:
 -------------------------------------------------------------------------------------
 ## :gift: What We Offer:
