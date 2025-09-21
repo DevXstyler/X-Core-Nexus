@@ -13,7 +13,7 @@ It was made to make you happy! So let’s dive in:
 
 • :crown: VIP & VIP+
 
-• :tools: Development, :video_game: Gaming, :art: Design, :speech_balloon: Chatting, and more
+• 🛠️ Development, :video_game: Gaming, :art: Design, :speech_balloon: Chatting, and more
 
 • :joy: A lot of fun!
 
